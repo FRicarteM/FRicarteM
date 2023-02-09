@@ -67,15 +67,11 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 
 ***************
 
-  <p align="center">
-  <a href="https://github.com/FRicarteM">
-    <img src="https://github-readme-stats.vercel.app/api?username=FRicarteM&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRicarteM&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FRicarteM&theme=github-dark-blue&hide_border=true" />
-
-[//]: # (    <img src="https://activity-graph.herokuapp.com/graph?username=FRicarteM&theme=react-dark" />)
-</a>
-</p>
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRicarteM&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FRicarteM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
   
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>

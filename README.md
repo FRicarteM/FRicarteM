@@ -1,16 +1,88 @@
-### Hi there 👋
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+<p align="center"><img src="backimg.png" width="70%"></p>
+  
+<h1 align="center">
+  Olá, meu nome é Fabrício Ricarte
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-<!--
-**FRicarteM/FRicarteM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***************
 
-Here are some ideas to get you started:
+<div align="right">  
+<img align="left" src="recorte.jpg" width="160px">   Trabalho como Software Engineer desde o final de 2021, quando parei de atuar profissionalmente como geógrafo. Hoje posso dizer que encontrei na programação um novo significado de luta, e perspectiva. Especializei-me em Desenvolvimento Orientado a Objeto com Java, a fim, de ter uma rápida orientação sobre a área, e assim traçar o caminho mais adequado para mim. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Durante minha jornada adquiri alguns conhecimentos em Arquitetura de sistemas, tais como MVC, Hexagonal, API’s do tipo RESTFul, e de Microsserviços. Praticante de codificação limpa e padrões de desenvolvimento estruturado, prezo sempre pela entrega de valores saudáveis, e para isso trabalho com métricas de entregas continuas aliadas ao processo de desenvolvimento vindo do GITFLOW, em todo processo de desenvolvimento ágil, orquestrado e guiado sempre pelas boas práticas do SCRUM, e aliado a visão operacional fornecida pelos boards KANBAN. 
+
+Dentre as linguagens e plataformas de programação com a qual atuo e atuei, devo destarcar JakartaEE, Ecossistema Spring (Spring Boot, Spring MVC, Spring Data e Spring Security), EJB para orquestração e gerenciamento de containers WEB JSF para desenvolvimento Component-Based. Bancos de Dados- MYSQL e POSTGRES. Gerenciamento e Configuração de ambientes funcionais em Sistemas Operacionais LINUX e Windows. Conteinerização e isolamento de Recursos Computacionais e integradores com Docker e Docker-Compose para manipulação de ambientes.
+</div>
+
+***************
+<div align="center">
+
+# Skills💻
+    
+### 🔵Databases:
+<p style="padding:10px;"> 
+    <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=mongo,mysql,postgres"/> </a>
+</p>  
+  
+### 🔵Languages:
+<p style="padding:10px;">
+  <a href="https://www.java.com" 
+       target="_blank"> 
+      <img src="https://skills.thijs.gg/icons?i=java,js,typescript"/> 
+  </a>
+  </a>
+</p>
+
+### 🔵Backend Framework and Libraries:
+<p style="padding:10px;">
+    <a href="https://spring.io/projects/spring-framework" target="_blank"> 
+      <img src="https://spring.io/img/projects/spring-framework.svg?v=2" height=40 width=50 /> 
+    </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+      <img src="https://spring.io/img/projects/spring-boot.svg?v=2" height=40 width=50 /> 
+    </a>
+    <a href="https://spring.io/projects/spring-data" target="_blank"> 
+      <img src="https://spring.io/img/projects/spring-data.svg?v=2" height=40 width=50 />
+    </a>
+      <a href="https://spring.io/projects/spring-hateoas" target="_blank"> 
+      <img src="https://spring.io/img/projects/spring-hateoas.svg?v=2" height=40 width=50 />
+    </a>
+    <a href="https://spring.io/projects/spring-security" target="_blank"> 
+      <img src="https://spring.io/img/projects/spring-security.svg?v=2" height=40 width=50 /> 
+  </a>
+   <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=nodejs"/> 
+  </a>
+</p>
+
+### 🔵Frontend Framework and Libraries:
+ <p style="padding:10px;">
+    <a href="" target="_blank"> <img src="https://skills.thijs.gg/icons?i=vue,angular,next,react,html,css,webpack,gulp,bootstrap,jquery"/> </a>
+  </a>
+</p>
+</div>
+
+***************
+
+  <p align="center">
+  <a href="https://github.com/FRicarteM">
+    <img src="https://github-readme-stats.vercel.app/api?username=FRicarteM&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRicarteM&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FRicarteM&theme=github-dark-blue&hide_border=true" />
+
+[//]: # (    <img src="https://activity-graph.herokuapp.com/graph?username=FRicarteM&theme=react-dark" />)
+</a>
+</p>
+  
+<div align="center">
+<br><p align="center"><b>Visitors Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FRicarteM}/count.svg" /></p> 
+<br>
+</div>  
+  
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>

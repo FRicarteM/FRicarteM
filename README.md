@@ -24,7 +24,9 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 # Skills💻
 
 ### 🔵Services:
-  
+<p style="padding:10px;"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/> </a>
+</p> 
   
 ### 🔵Databases:
 <p style="padding:10px;"> 

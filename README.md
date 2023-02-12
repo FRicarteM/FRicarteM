@@ -43,7 +43,7 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 <p style="padding:10px;">
   <a href="https://www.java.com" 
        target="_blank"> 
-      <img src="https://skills.thijs.gg/icons?i=java,js,typescript"/> 
+      <img src="https://skills.thijs.gg/icons?i=java,js,typescript,html,css"/> 
   </a>
   </a>
 </p>
@@ -71,7 +71,7 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 
 ### 🔵Frontend Framework and Libraries:
  <p style="padding:10px;">
-    <a href="" target="_blank"> <img src="https://skills.thijs.gg/icons?i=vue,angular,next,react,html,css,webpack,gulp,bootstrap,jquery"/> </a>
+    <a href="" target="_blank"> <img src="https://skills.thijs.gg/icons?i=vue,angular,next,react,webpack,gulp,bootstrap,jquery"/> </a>
   </a>
 </p>
 </div>

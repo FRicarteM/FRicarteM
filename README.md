@@ -18,11 +18,11 @@ Durante minha jornada adquiri alguns conhecimentos em Arquitetura de sistemas, t
 Dentre as linguagens e plataformas de programação com a qual atuo e atuei, devo destarcar JakartaEE, Ecossistema Spring (Spring Boot, Spring MVC, Spring Data e Spring Security), EJB para orquestração e gerenciamento de containers WEB JSF para desenvolvimento Component-Based. Bancos de Dados- MYSQL e POSTGRES. Gerenciamento e Configuração de ambientes funcionais em Sistemas Operacionais LINUX e Windows. Conteinerização e isolamento de Recursos Computacionais e integradores com Docker e Docker-Compose para manipulação de ambientes.
 </div>
 
-<div align="center">
-  
-[![Linkedin Badge](img.shields.io/badge/-%40fabrício--ricarte-green?style=flat&logo=linkedin&labelColor=blue://linkedin.com/in/fabrício-ricarte-)](https://linkedin.com/in/fabrício-ricarte)
-  
-</div>
+<p align=”center”>
+  <a href=”linkedin.com/in/fabrício-ricarte”>
+    <img src=”[https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue](https://img.shields.io/badge/-%40fabr%C3%ADcio--ricarte-green?style=flat&logo=linkedin&labelColor=blue)">
+  </a>
+</p>
 
 ***************
 <div align="center">

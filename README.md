@@ -20,7 +20,7 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-%40fabr%C3%ADcio--ricarte-green?style=flat&logo=linkedin&labelColor=blue)](linkedin.com/in/fabrício-ricarte)
+[![Linkedin Badge](https://img.shields.io/badge/-%40fabr%C3%ADcio--ricarte-green?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/fabrício-ricarte)
   
 </div>
 

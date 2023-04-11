@@ -47,10 +47,11 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
   
 ### 🔵Languages:
 <p style="padding:10px;">
-  <a href="https://www.java.com" 
-       target="_blank"> 
-      <img src="https://skills.thijs.gg/icons?i=java,js,typescript,html,css"/> 
+  <a href="https://www.java.com" target="_blank"> 
+      <img src="https://skills.thijs.gg/icons=java"/> 
   </a>
+    <a href="https://www.java.com" target="_blank"> 
+      <img src="https://skills.thijs.gg/icons?i=java,js,typescript,html,css"/> 
   </a>
 </p>
 
@@ -70,9 +71,10 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
     </a>
     <a href="https://spring.io/projects/spring-security" target="_blank"> 
       <img src="https://spring.io/img/projects/spring-security.svg?v=2" height=40 width=50 /> 
-  </a>
-   <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=nodejs"/> 
-  </a>
+    </a>
+    <a href="https://nodejs.org/en/about" target="_blank"> 
+     <img src="https://skills.thijs.gg/icons?i=nodejs"/> 
+    </a>
 </p>
 
 ### 🔵Frontend Framework and Libraries:

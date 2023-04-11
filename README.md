@@ -2,8 +2,8 @@
 <p  align="center">
 <p align="center"><img src="backimg.png" width="70%"></p>
 <br>  
-<h1 align="center" color="red">
-  Olá, meu nome é Fabrício Ricarte
+<h1 align="center">
+  Olá, meu nome é <strong>Fabrício Ricarte</strong>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 

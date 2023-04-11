@@ -1,6 +1,4 @@
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
 <p align="center"><img src="backimg.png" width="70%"></p>
   
 <h1 align="center">
@@ -32,11 +30,11 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 ### 🔵Services:
 <p style="padding:10px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=40 width=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height=40 width=50 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=40 width=50 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height=40 width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height=40 width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height=40 width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height=40 width=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=40 width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=40 width=50 />
 </p> 
   
@@ -48,19 +46,19 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 ### 🔵Languages:
 <p style="padding:10px;">
   <a href="https://www.java.com" target="_blank"> 
-      <img src="https://skills.thijs.gg/icons?i=java"/> 
+    <img src="https://skills.thijs.gg/icons?i=java"/> 
   </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
-      <img src="https://skills.thijs.gg/icons?i=js"/> 
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=js"/> 
   </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> 
-      <img src="https://skills.thijs.gg/icons?i=typescript"/> 
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=typescript"/> 
   </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> 
-      <img src="https://skills.thijs.gg/icons?i=html"/> 
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=html"/> 
   </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> 
-      <img src="https://skills.thijs.gg/icons?i=css"/> 
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=css"/> 
   </a>
 </p>
 
@@ -88,7 +86,29 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 
 ### 🔵Frontend Framework and Libraries:
  <p style="padding:10px;">
-    <a href="" target="_blank"> <img src="https://skills.thijs.gg/icons?i=vue,angular,next,react,webpack,gulp,bootstrap,jquery"/> </a>
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=vue"/>
+  </a>
+  <a href="https://angular.io/" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=angular"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=bootstrap"/>
+  </a>
+  <a href="https://react.dev/" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=react"/>
+  </a>
+  <a href="https://nextjs.org/learn/foundations/about-nextjs?utm_source=next-site&utm_medium=homepage-cta&utm_campaign=next-website" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=next"/>
+  </a>
+  <a href="https://webpack.js.org/" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=webpack"/>
+  </a>
+  <a href="https://gulpjs.com/" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=gulp"/>
+  </a>
+  <a href="https://jquery.com/" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=jquery"/>
   </a>
 </p>
 </div>
@@ -107,7 +127,6 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FRicarteM}/count.svg" /></p> 
 <br>
 </div>  
-  
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+<br>
 <br>

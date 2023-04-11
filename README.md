@@ -48,7 +48,7 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 ### 🔵Languages:
 <p style="padding:10px;">
   <a href="https://www.java.com" target="_blank"> 
-      <img src="https://skills.thijs.gg/icons=java"/> 
+      <img src="https://skills.thijs.gg/icons?i=java"/> 
   </a>
     <a href="https://www.java.com" target="_blank"> 
       <img src="https://skills.thijs.gg/icons?i=java,js,typescript,html,css"/> 

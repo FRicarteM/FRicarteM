@@ -50,8 +50,17 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
   <a href="https://www.java.com" target="_blank"> 
       <img src="https://skills.thijs.gg/icons?i=java"/> 
   </a>
-    <a href="https://www.java.com" target="_blank"> 
-      <img src="https://skills.thijs.gg/icons?i=java,js,typescript,html,css"/> 
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
+      <img src="https://skills.thijs.gg/icons?i=js"/> 
+  </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> 
+      <img src="https://skills.thijs.gg/icons?i=typescript"/> 
+  </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> 
+      <img src="https://skills.thijs.gg/icons?i=html"/> 
+  </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> 
+      <img src="https://skills.thijs.gg/icons?i=css"/> 
   </a>
 </p>
 

@@ -8,7 +8,7 @@
 </h1>
 
 ***************
-
+<br> 
 <div align="right">  
 <img align="left" src="recorte.jpg" width="160px">   Trabalho como Software Engineer desde o final de 2021, quando parei de atuar profissionalmente como geógrafo. Hoje posso dizer que encontrei na programação um novo significado de luta, e perspectiva. Especializei-me em Desenvolvimento Orientado a Objeto com Java, a fim, de ter uma rápida orientação sobre a área, e assim traçar o caminho mais adequado para mim. 
 
@@ -16,7 +16,7 @@ Durante minha jornada adquiri alguns conhecimentos em Arquitetura de sistemas, t
 
 Dentre as linguagens e plataformas de programação com a qual atuo e atuei, devo destarcar JakartaEE, Ecossistema Spring (Spring Boot, Spring MVC, Spring Data e Spring Security), EJB para orquestração e gerenciamento de containers WEB JSF para desenvolvimento Component-Based. Bancos de Dados- MYSQL e POSTGRES. Gerenciamento e Configuração de ambientes funcionais em Sistemas Operacionais LINUX e Windows. Conteinerização e isolamento de Recursos Computacionais e integradores com Docker e Docker-Compose para manipulação de ambientes.
 </div>
-
+<br> 
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-%40fabr%C3%ADcio--ricarte-green?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/fabrício-ricarte)

@@ -30,18 +30,40 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 
 ### 🔵Services:
 <p style="padding:10px;"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=40 width=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=40 width=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height=40 width=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height=40 width=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height=40 width=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height=40 width=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=40 width=50 />
+  <a href="https://ubuntu.com/" target="_blamnk">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=40 width=50 />
+  </a>
+  <a href="https://gitforwindows.org/" target="_blamnk">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=40 width=50 />
+  </a>
+  <a href="https://tomcat.apache.org/" target="_blamnk">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height=40 width=50 />
+  </a>
+  <a href="https://trello.com/home" target="_blamnk">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height=40 width=50 />
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blamnk">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height=40 width=50 />
+  </a>  
+  <a href="https://slack.com/intl/pt-br" target="_blamnk">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height=40 width=50 />
+  </a>  
+  <a href="https://docs.docker.com/get-docker/" target="_blamnk">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=40 width=50 />
+  </a>  
 </p> 
   
 ### 🔵Databases:
 <p style="padding:10px;"> 
-    <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=mongo,mysql,postgres"/> </a>
+  <a style="padding:15px;" href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=mongo"/>
+  </a>
+  <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=mysql"/>
+  </a>
+  <a style="padding:15px;" href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=postgres"/>
+  </a>
 </p>  
   
 ### 🔵Languages:

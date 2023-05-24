@@ -138,18 +138,3 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 
 ***************
 
-<div align="center">
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FRicarteM&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRicarteM&layout=compact&langs_count=7&theme=highcontrast"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FRicarteM&theme=highcontrast&hide_border=true" />  
-</div>
-  
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FRicarteM}/count.svg" /></p> 
-<br>
-</div>  
-<br>
-<br>
-<br>

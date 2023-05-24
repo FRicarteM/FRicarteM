@@ -30,13 +30,13 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 
 ### 🔵Services:
 <p style="padding:10px;"> 
-  <a href="https://ubuntu.com/" target="_blamnk">
+  <a href="https://github.com/FRicarteM/attornatus-api-rest" target="_blamnk">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=40 width=50 />
   </a>
-  <a href="https://gitforwindows.org/" target="_blamnk">
+  <a href="https://www.linkedin.com/pulse/introdu%C3%A7%C3%A3o-ao-git-e-github-fabr%C3%ADcio-ricarte-magalh%C3%A3es/" target="_blamnk">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=40 width=50 />
   </a>
-  <a href="https://tomcat.apache.org/" target="_blamnk">  
+  <a href="https://github.com/FRicarteM/attornatus-api-rest" target="_blamnk">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height=40 width=50 />
   </a>
   <a href="https://trello.com/home" target="_blamnk">  
@@ -48,7 +48,7 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
   <a href="https://slack.com/intl/pt-br" target="_blamnk">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height=40 width=50 />
   </a>  
-  <a href="https://docs.docker.com/get-docker/" target="_blamnk">  
+  <a href="https://hub.docker.com/u/fricarte" target="_blamnk">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=40 width=50 />
   </a>  
 </p> 
@@ -61,14 +61,14 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
   <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> 
     <img src="https://skills.thijs.gg/icons?i=mysql"/>
   </a>
-  <a style="padding:15px;" href="https://www.postgresql.org/" target="_blank"> 
+  <a style="padding:15px;" href="https://github.com/FRicarteM/authentication-with-jwt-spring_security" target="_blank"> 
     <img src="https://skills.thijs.gg/icons?i=postgres"/>
   </a>
 </p>  
   
 ### 🔵Languages:
 <p style="padding:10px;">
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="https://github.com/FRicarteM/attornatus-api-rest" target="_blank"> 
     <img src="https://skills.thijs.gg/icons?i=java"/> 
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
@@ -87,19 +87,19 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 
 ### 🔵Backend Framework and Libraries:
 <p style="padding:10px;">
-    <a href="https://spring.io/projects/spring-framework" target="_blank"> 
+    <a href="https://github.com/FRicarteM/attornatus-api-rest" target="_blank"> 
       <img src="https://spring.io/img/projects/spring-framework.svg?v=2" height=40 width=50 /> 
     </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+    <a href="https://github.com/FRicarteM/attornatus-api-rest" target="_blank"> 
       <img src="https://spring.io/img/projects/spring-boot.svg?v=2" height=40 width=50 /> 
     </a>
-    <a href="https://spring.io/projects/spring-data" target="_blank"> 
+    <a href="https://github.com/FRicarteM/authentication-with-jwt-spring_security" target="_blank"> 
       <img src="https://spring.io/img/projects/spring-data.svg?v=2" height=40 width=50 />
     </a>
-      <a href="https://spring.io/projects/spring-hateoas" target="_blank"> 
+      <a href="https://github.com/FRicarteM/professional-management-api" target="_blank"> 
       <img src="https://spring.io/img/projects/spring-hateoas.svg?v=2" height=40 width=50 />
     </a>
-    <a href="https://spring.io/projects/spring-security" target="_blank"> 
+    <a href="https://github.com/FRicarteM/authentication-with-jwt-spring_security" target="_blank"> 
       <img src="https://spring.io/img/projects/spring-security.svg?v=2" height=40 width=50 /> 
     </a>
     <a href="https://nodejs.org/en/about" target="_blank"> 

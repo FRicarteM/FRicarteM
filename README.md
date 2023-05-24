@@ -20,7 +20,6 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-%40fabr%C3%ADcio--ricarte-green?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/fabrício-ricarte)
-[![Docker Hub Repo](https://img.shields.io/docker/pulls/fricarte/authentication-with-jwt-spring-security.svg)](https://hub.docker.com/repository/docker/fricarte/authentication-with-jwt-spring-security)
   
 </div>
 

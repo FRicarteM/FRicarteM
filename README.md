@@ -103,7 +103,7 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
       <img src="https://spring.io/img/projects/spring-security.svg?v=2" height=40 width=50 alt="Ícone do Spring Security"/> 
     </a>
     <a href="https://github.com/FRicarteM/chatgpt-house" target="_blank"> 
-      <img src="https://avatars.githubusercontent.com/u/1492367?s=200&v=4" height=40 width=50 alt="Ícone do Thymeleaf"/> 
+      <img src="https://avatars.githubusercontent.com/u/1492367?s=200&v=4" height=50 width=40 alt="Ícone do Thymeleaf"/> 
     </a>
     <a href="https://nodejs.org/en/about" target="_blank"> 
      <img src="https://skills.thijs.gg/icons?i=nodejs" alt="Ícone do NodeJs"/> 

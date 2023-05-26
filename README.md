@@ -134,7 +134,7 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
     <img src="https://skills.thijs.gg/icons?i=jquery" alt="Ícone do JQuery"/>
   </a>
   <a href="https://github.com/FRicarteM/chatgpt-house" target="_blank"> 
-     <img src="https://avatars.githubusercontent.com/u/1492367?s=200&v=4" height=40 width=40 margin-left="4" alt="Ícone do Thymeleaf"/> 
+     <img src="https://avatars.githubusercontent.com/u/1492367?s=200&v=4" height=50 width=50 margin-left="4" alt="Ícone do Thymeleaf"/> 
   </a>
 </p>
 </div>

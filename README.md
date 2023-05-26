@@ -31,107 +31,110 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
 ### 🔵Services:
 <p style="padding:10px;"> 
   <a href="https://github.com/FRicarteM/attornatus-api-rest" target="_blamnk">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=40 width=50 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=40 width=50 alt="Ícone do Linux"/>
   </a>
   <a href="https://www.linkedin.com/pulse/introdu%C3%A7%C3%A3o-ao-git-e-github-fabr%C3%ADcio-ricarte-magalh%C3%A3es/" target="_blamnk">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=40 width=50 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=40 width=50 alt="Ícone do Git Bash/>
   </a>
   <a href="https://github.com/FRicarteM/attornatus-api-rest" target="_blamnk">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height=40 width=50 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height=40 width=50 alt="Ícone do Tomcat"/>
   </a>
   <a href="https://trello.com/home" target="_blamnk">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height=40 width=50 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height=40 width=50 alt="Ícone do Trello"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blamnk">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height=40 width=50 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height=40 width=50 alt="Ícone do Jira"/>
   </a>  
   <a href="https://slack.com/intl/pt-br" target="_blamnk">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height=40 width=50 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height=40 width=50 alt="Ícone do Slack"/>
   </a>  
   <a href="https://hub.docker.com/u/fricarte" target="_blamnk">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=40 width=50 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=40 width=50 alt="Ícone do Docker"/>
   </a>  
 </p> 
   
 ### 🔵Databases:
 <p style="padding:10px;"> 
   <a style="padding:15px;" href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=mongo"/>
+    <img src="https://skills.thijs.gg/icons?i=mongo" alt="Ícone do MongoDB"/>
   </a>
   <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=mysql"/>
+    <img src="https://skills.thijs.gg/icons?i=mysql" alt="Ícone do MySQL"/>
   </a>
   <a style="padding:15px;" href="https://github.com/FRicarteM/authentication-with-jwt-spring_security" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=postgres"/>
+    <img src="https://skills.thijs.gg/icons?i=postgres" alt="Ícone do PostgreSQL"/>
   </a>
 </p>  
   
 ### 🔵Languages:
 <p style="padding:10px;">
   <a href="https://github.com/FRicarteM/attornatus-api-rest" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=java"/> 
+    <img src="https://skills.thijs.gg/icons?i=java" alt="Ícone do Java/> 
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=js"/> 
+    <img src="https://skills.thijs.gg/icons?i=js" alt="Ícone do JavaScript"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=typescript"/> 
+    <img src="https://skills.thijs.gg/icons?i=typescript" alt="Ícone do TypeScript"/> 
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=html"/> 
+    <img src="https://skills.thijs.gg/icons?i=html" alt="Ícone do HTML"/> 
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=css"/> 
+    <img src="https://skills.thijs.gg/icons?i=css" alt="Ícone do CSS"/> 
   </a>
 </p>
 
 ### 🔵Backend Framework and Libraries:
 <p style="padding:10px;">
     <a href="https://github.com/FRicarteM/attornatus-api-rest" target="_blank"> 
-      <img src="https://spring.io/img/projects/spring-framework.svg?v=2" height=40 width=50 /> 
+      <img src="https://spring.io/img/projects/spring-framework.svg?v=2" height=40 width=50 alt="Ícone do Spring Framework"/> 
     </a>
     <a href="https://github.com/FRicarteM/attornatus-api-rest" target="_blank"> 
-      <img src="https://spring.io/img/projects/spring-boot.svg?v=2" height=40 width=50 /> 
+      <img src="https://spring.io/img/projects/spring-boot.svg?v=2" height=40 width=50 alt="Ícone do Spring Boot"/> 
     </a>
     <a href="https://github.com/FRicarteM/authentication-with-jwt-spring_security" target="_blank"> 
-      <img src="https://spring.io/img/projects/spring-data.svg?v=2" height=40 width=50 />
+      <img src="https://spring.io/img/projects/spring-data.svg?v=2" height=40 width=50 alt="Ícone do Spring Data"/>
     </a>
       <a href="https://github.com/FRicarteM/professional-management-api" target="_blank"> 
-      <img src="https://spring.io/img/projects/spring-hateoas.svg?v=2" height=40 width=50 />
+      <img src="https://spring.io/img/projects/spring-hateoas.svg?v=2" height=40 width=50 alt="Ícone do Spring Hateoas"/>
     </a>
     <a href="https://github.com/FRicarteM/authentication-with-jwt-spring_security" target="_blank"> 
-      <img src="https://spring.io/img/projects/spring-security.svg?v=2" height=40 width=50 /> 
+      <img src="https://spring.io/img/projects/spring-security.svg?v=2" height=40 width=50 alt="Ícone do Spring Security"/> 
+    </a>
+    <a href="https://github.com/FRicarteM/chatgpt-house" target="_blank"> 
+      <img src="https://spring.io/img/projects/thymeleaf.svg?v=2" height=40 width=50 alt="Ícone do Spring Thymeleaf"/> 
     </a>
     <a href="https://nodejs.org/en/about" target="_blank"> 
-     <img src="https://skills.thijs.gg/icons?i=nodejs"/> 
+     <img src="https://skills.thijs.gg/icons?i=nodejs" alt="Ícone do NodeJs"/> 
     </a>
 </p>
 
 ### 🔵Frontend Framework and Libraries:
  <p style="padding:10px;">
   <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=vue"/>
+    <img src="https://skills.thijs.gg/icons?i=vue" alt="Ícone do Vue"/>
   </a>
   <a href="https://angular.io/" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=angular"/>
+    <img src="https://skills.thijs.gg/icons?i=angular" alt="Ícone do Angular"/>
   </a>
-  <a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=bootstrap"/>
+  <a href="https://github.com/FRicarteM/chatgpt-house" target="_blank"> 
+    <img src="https://skills.thijs.gg/icons?i=bootstrap" alt="Ícone do BootsTrap"/>
   </a>
   <a href="https://react.dev/" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=react"/>
+    <img src="https://skills.thijs.gg/icons?i=react" alt="Ícone do React"/>
   </a>
   <a href="https://nextjs.org/learn/foundations/about-nextjs?utm_source=next-site&utm_medium=homepage-cta&utm_campaign=next-website" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=next"/>
+    <img src="https://skills.thijs.gg/icons?i=next" alt="Ícone do Next"/>
   </a>
   <a href="https://webpack.js.org/" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=webpack"/>
+    <img src="https://skills.thijs.gg/icons?i=webpack" alt="Ícone do WevPack"/>
   </a>
   <a href="https://gulpjs.com/" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=gulp"/>
+    <img src="https://skills.thijs.gg/icons?i=gulp" alt="Ícone do Gulp"/>
   </a>
   <a href="https://jquery.com/" target="_blank"> 
-    <img src="https://skills.thijs.gg/icons?i=jquery"/>
+    <img src="https://skills.thijs.gg/icons?i=jquery" alt="Ícone do JQuery"/>
   </a>
 </p>
 </div>

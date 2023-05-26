@@ -77,10 +77,10 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://skills.thijs.gg/icons?i=typescript" alt="Ícone do TypeScript"/> 
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> 
+  <a href="https://github.com/FRicarteM/barbearia-alura" target="_blank"> 
     <img src="https://skills.thijs.gg/icons?i=html" alt="Ícone do HTML"/> 
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> 
+  <a href="https://github.com/FRicarteM/barbearia-alura" target="_blank"> 
     <img src="https://skills.thijs.gg/icons?i=css" alt="Ícone do CSS"/> 
   </a>
 </p>

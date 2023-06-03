@@ -71,7 +71,7 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
   <a href="https://github.com/FRicarteM/attornatus-api-rest" target="_blank"> 
     <img src="https://skills.thijs.gg/icons?i=java" alt="Ícone do Java/> 
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://github.com/FRicarteM/challenge-decodificador-one" target="_blank"> 
     <img src="https://skills.thijs.gg/icons?i=js" alt="Ícone do JavaScript"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
@@ -80,7 +80,7 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
   <a href="https://github.com/FRicarteM/barbearia-alura" target="_blank"> 
     <img src="https://skills.thijs.gg/icons?i=html" alt="Ícone do HTML"/> 
   </a>
-  <a href="https://github.com/FRicarteM/barbearia-alura" target="_blank"> 
+  <a href="https://github.com/FRicarteM/challenge-decodificador-one" target="_blank"> 
     <img src="https://skills.thijs.gg/icons?i=css" alt="Ícone do CSS"/> 
   </a>
 </p>

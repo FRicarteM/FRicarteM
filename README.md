@@ -74,7 +74,7 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
   <a href="https://github.com/FRicarteM/challenge-decodificador-one" target="_blank"> 
     <img src="https://skills.thijs.gg/icons?i=js" alt="Ícone do JavaScript"/> 
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
+  <a href="https://github.com/FRicarteM/curso-angular-crud" target="_blank"> 
     <img src="https://skills.thijs.gg/icons?i=typescript" alt="Ícone do TypeScript"/> 
   </a>
   <a href="https://github.com/FRicarteM/barbearia-alura" target="_blank"> 
@@ -102,7 +102,7 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
     <a href="https://github.com/FRicarteM/authentication-with-jwt-spring_security" target="_blank"> 
       <img src="https://spring.io/img/projects/spring-security.svg?v=2" height=40 width=50 alt="Ícone do Spring Security"/> 
     </a>
-    <a href="https://nodejs.org/en/about" target="_blank"> 
+    <a href="https://github.com/FRicarteM/curso-angular-crud" target="_blank"> 
      <img src="https://skills.thijs.gg/icons?i=nodejs" alt="Ícone do NodeJs"/> 
     </a>
 </p>
@@ -112,7 +112,7 @@ Dentre as linguagens e plataformas de programação com a qual atuo e atuei, dev
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://skills.thijs.gg/icons?i=vue" alt="Ícone do Vue"/>
   </a>
-  <a href="https://angular.io/" target="_blank"> 
+  <a href="https://github.com/FRicarteM/curso-angular-crud" target="_blank"> 
     <img src="https://skills.thijs.gg/icons?i=angular" alt="Ícone do Angular"/>
   </a>
   <a href="https://github.com/FRicarteM/chatgpt-house" target="_blank"> 
